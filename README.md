@@ -1,2 +1,3 @@
-# TrainingTetrisAIWithNeat
-Training Tetris AI using Neuroevolution of weights and topology (NEAT algorithm)
+# TrainingDinosaurGameAI
+Game can be found at
+http://wayou.github.io/t-rex-runner/
