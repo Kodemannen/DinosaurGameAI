@@ -290,3 +290,4 @@
 1539456918742	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
 1539456918766	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
 1539456918792	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1539457888734	Marionette	INFO	Stopped listening on port 44225
