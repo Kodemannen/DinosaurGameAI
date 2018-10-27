@@ -6,20 +6,31 @@ import numpy as np
 import functions
 
 from selenium import webdriver
-game_url = "file:///home/kodemannen/t-rex-runner/index.html"
+game_url = "file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html"
 driver = webdriver.Firefox()
 driver.get(game_url)
 
-game window coordinates (x,y,width,height):
+# game window coordinates (x,y,width,height):
 x = 688
 y = 165
-w = 600
-h = 120
-region=(x,y,w,h)
-
-screen = agu.screenshot(region=(x,y,w,h))
+width = 600
+height = 150
+region=(x,y,width,height)
 
 
+#################################
+# Initializing neural networks: #
+#################################
+output_actions = ["nothing", "up", "down"]
+input_size = width*height
+
+
+
+
+#screen = agu.screenshot(region=(x,y,w,h))
+
+#plt.imshow(screen)
+#plt.show()
 
 # while True:
 #     get_score = driver.find_element_by_id("Score")

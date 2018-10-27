@@ -291,3 +291,1333 @@
 1539456918766	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
 1539456918792	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
 1539457888734	Marionette	INFO	Stopped listening on port 44225
+1540580032791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cWCoxeCzikqX"
+
+(firefox:23489): Gtk-WARNING **: 20:53:53.354: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23489): Gtk-WARNING **: 20:53:53.354: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580034287	Marionette	INFO	Listening on port 36029
+1540580034301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580034347	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580034349	Marionette	DEBUG	[2147483649] Frame script registered
+1540580034365	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580034385	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580034385	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580034386	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580034606	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580034607	Marionette	DEBUG	[4294967297] Frame script registered
+1540580034640	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580034655	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580034692	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 23489, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580045266	Marionette	INFO	Stopped listening on port 36029
+1540580094873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bSESPe3DDhVG"
+
+(firefox:23768): Gtk-WARNING **: 20:54:55.466: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23768): Gtk-WARNING **: 20:54:55.466: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580096375	Marionette	INFO	Listening on port 40521
+1540580096379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580096426	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580096428	Marionette	DEBUG	[2147483649] Frame script registered
+1540580096451	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580096463	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580096463	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580096464	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580096678	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580096679	Marionette	DEBUG	[4294967297] Frame script registered
+1540580096712	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580096730	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580096768	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580130081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QfxEAIVd5c5x"
+
+(firefox:23997): Gtk-WARNING **: 20:55:30.649: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23997): Gtk-WARNING **: 20:55:30.649: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580131539	Marionette	INFO	Listening on port 40863
+1540580131589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580131632	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580131633	Marionette	DEBUG	[2147483649] Frame script registered
+1540580131648	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580131663	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580131663	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580131664	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580131891	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580131892	Marionette	DEBUG	[4294967297] Frame script registered
+1540580131925	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580131940	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580131980	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580179468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1VtaQp5b4Uuj"
+
+(firefox:24384): Gtk-WARNING **: 20:56:20.057: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24384): Gtk-WARNING **: 20:56:20.057: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580181001	Marionette	INFO	Listening on port 38223
+1540580181093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580181138	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580181139	Marionette	DEBUG	[2147483649] Frame script registered
+1540580181151	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580181162	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580181162	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580181163	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580181369	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580181370	Marionette	DEBUG	[4294967297] Frame script registered
+1540580181402	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580181417	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580181454	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580202767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tMqEh7JUPieL"
+
+(firefox:24604): Gtk-WARNING **: 20:56:43.369: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24604): Gtk-WARNING **: 20:56:43.369: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580204263	Marionette	INFO	Listening on port 37037
+1540580204277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580204320	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580204320	Marionette	DEBUG	[2147483649] Frame script registered
+1540580204338	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580204355	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580204355	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580204356	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580204591	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580204592	Marionette	DEBUG	[4294967297] Frame script registered
+1540580204627	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580204645	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580204687	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580215426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.81jyeyFawXey"
+
+(firefox:24838): Gtk-WARNING **: 20:56:56.052: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24838): Gtk-WARNING **: 20:56:56.052: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580217027	Marionette	INFO	Listening on port 39629
+1540580217040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580217092	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580217093	Marionette	DEBUG	[2147483649] Frame script registered
+1540580217114	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580217127	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580217128	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580217128	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580217351	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580217351	Marionette	DEBUG	[4294967297] Frame script registered
+1540580217384	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580217401	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580217436	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580229816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.23iTxT1BvNo1"
+
+(firefox:25065): Gtk-WARNING **: 20:57:10.387: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25065): Gtk-WARNING **: 20:57:10.387: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580231272	Marionette	INFO	Listening on port 39901
+1540580231322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580231365	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580231371	Marionette	DEBUG	[2147483649] Frame script registered
+1540580231390	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580231404	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580231405	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580231405	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580231619	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580231620	Marionette	DEBUG	[4294967297] Frame script registered
+1540580231652	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580231668	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580231704	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580249636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LG0FeM4596NE"
+
+(firefox:25292): Gtk-WARNING **: 20:57:30.229: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25292): Gtk-WARNING **: 20:57:30.229: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580251194	Marionette	INFO	Listening on port 45577
+1540580251246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580251288	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580251291	Marionette	DEBUG	[2147483649] Frame script registered
+1540580251314	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580251325	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580251326	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580251326	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580251537	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580251538	Marionette	DEBUG	[4294967297] Frame script registered
+1540580251570	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580251586	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580251624	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580267034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tzNbN4XHdKDz"
+
+(firefox:25525): Gtk-WARNING **: 20:57:47.614: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25525): Gtk-WARNING **: 20:57:47.614: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580268560	Marionette	INFO	Listening on port 37227
+1540580268643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580268688	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580268691	Marionette	DEBUG	[2147483649] Frame script registered
+1540580268709	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580268722	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580268722	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580268723	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580268935	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580268936	Marionette	DEBUG	[4294967297] Frame script registered
+1540580268971	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580268991	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580269035	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580300409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.niSpqMQkvqcq"
+
+(firefox:25783): Gtk-WARNING **: 20:58:20.997: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25783): Gtk-WARNING **: 20:58:20.997: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540580301905	Marionette	INFO	Listening on port 42887
+1540580301917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540580301963	Marionette	DEBUG	[2147483649] Frame script loaded
+1540580301964	Marionette	DEBUG	[2147483649] Frame script registered
+1540580301981	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540580302009	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540580302009	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540580302009	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540580302216	Marionette	DEBUG	[4294967297] Frame script loaded
+1540580302217	Marionette	DEBUG	[4294967297] Frame script registered
+1540580302249	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540580302268	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540580302296	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 23768, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580322973	Marionette	INFO	Stopped listening on port 40521
+[Parent 25292, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580327525	Marionette	INFO	Stopped listening on port 45577
+[Parent 25525, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580328031	Marionette	INFO	Stopped listening on port 37227
+[Parent 24838, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580329239	Marionette	INFO	Stopped listening on port 39629
+[Parent 24604, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580330334	Marionette	INFO	Stopped listening on port 37037
+[Parent 24384, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580331410	Marionette	INFO	Stopped listening on port 38223
+[Parent 23997, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580332492	Marionette	INFO	Stopped listening on port 40863
+[Parent 25065, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580334453	Marionette	INFO	Stopped listening on port 39901
+[Parent 25783, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540580336088	Marionette	INFO	Stopped listening on port 42887
+1540581375428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RlZtQwFAhkzc"
+
+(firefox:27446): Gtk-WARNING **: 21:16:16.003: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27446): Gtk-WARNING **: 21:16:16.003: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581376873	Marionette	INFO	Listening on port 45855
+1540581376934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581376978	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581376980	Marionette	DEBUG	[2147483649] Frame script registered
+1540581376998	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581377010	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581377011	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581377011	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581377234	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581377235	Marionette	DEBUG	[4294967297] Frame script registered
+1540581377268	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581377285	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581377322	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581406279	Marionette	DEBUG	[2147483652] Frame script loaded
+1540581406315	Marionette	DEBUG	[2147483652] Frame script registered
+1540581406335	Marionette	DEBUG	[2147483654] Frame script loaded
+1540581406339	Marionette	DEBUG	[2147483654] Frame script registered
+[Parent 27446, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581409003	Marionette	INFO	Stopped listening on port 45855
+1540581410717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FpHN9msTHUf0"
+
+(firefox:27832): Gtk-WARNING **: 21:16:51.285: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27832): Gtk-WARNING **: 21:16:51.285: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581412194	Marionette	INFO	Listening on port 37859
+1540581412224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581412267	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581412275	Marionette	DEBUG	[2147483649] Frame script registered
+1540581412305	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581412323	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581412323	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581412324	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581412562	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581412562	Marionette	DEBUG	[4294967297] Frame script registered
+1540581412594	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581412610	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581412646	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581488790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gpymKzo3cXEn"
+
+(firefox:28102): Gtk-WARNING **: 21:18:09.378: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28102): Gtk-WARNING **: 21:18:09.379: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581490286	Marionette	INFO	Listening on port 37787
+1540581490296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581490349	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581490350	Marionette	DEBUG	[2147483649] Frame script registered
+1540581490362	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581490374	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581490374	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581490374	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581490600	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581490600	Marionette	DEBUG	[4294967297] Frame script registered
+1540581490634	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581490652	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581490695	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 27832, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581496972	Marionette	INFO	Stopped listening on port 37859
+[Parent 28102, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581509293	Marionette	INFO	Stopped listening on port 37787
+1540581515562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sCRP6ntDthfc"
+
+(firefox:28360): Gtk-WARNING **: 21:18:36.164: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28360): Gtk-WARNING **: 21:18:36.164: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581517078	Marionette	INFO	Listening on port 42877
+1540581517171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581517215	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581517216	Marionette	DEBUG	[2147483649] Frame script registered
+1540581517227	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581517243	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581517244	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581517244	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581517485	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581517486	Marionette	DEBUG	[4294967297] Frame script registered
+1540581517523	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581517552	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581517588	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 28360, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581534609	Marionette	INFO	Stopped listening on port 42877
+[Parent 28360, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581776413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E4HPwtw84gMn"
+
+(firefox:28683): Gtk-WARNING **: 21:22:56.992: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28683): Gtk-WARNING **: 21:22:56.992: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581777894	Marionette	INFO	Listening on port 32869
+1540581777919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581777962	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581777965	Marionette	DEBUG	[2147483649] Frame script registered
+1540581778004	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581778017	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581778017	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581778018	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581778243	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581778244	Marionette	DEBUG	[4294967297] Frame script registered
+1540581778279	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581778303	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581778335	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 28683, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581792750	Marionette	INFO	Stopped listening on port 32869
+[Parent 28683, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581794924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pWNy9ZXA5KED"
+
+(firefox:28922): Gtk-WARNING **: 21:23:15.495: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28922): Gtk-WARNING **: 21:23:15.495: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581796384	Marionette	INFO	Listening on port 38319
+1540581796431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581796473	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581796476	Marionette	DEBUG	[2147483649] Frame script registered
+1540581796507	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581796522	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581796522	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581796523	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581796770	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581796771	Marionette	DEBUG	[4294967297] Frame script registered
+1540581796803	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581796821	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581796864	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581812203	Marionette	INFO	Stopped listening on port 38319
+[Parent 28922, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 28922, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581814275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FCUkKY4cQpPw"
+
+(firefox:29194): Gtk-WARNING **: 21:23:34.860: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29194): Gtk-WARNING **: 21:23:34.860: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581815756	Marionette	INFO	Listening on port 42731
+1540581815783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581815826	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581815828	Marionette	DEBUG	[2147483649] Frame script registered
+1540581815858	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581815872	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581815872	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581815872	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581816090	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581816091	Marionette	DEBUG	[4294967297] Frame script registered
+1540581816124	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581816140	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581816178	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 29194, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581845044	Marionette	INFO	Stopped listening on port 42731
+1540581906577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BGIP0SxCOU6d"
+
+(firefox:29485): Gtk-WARNING **: 21:25:07.202: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29485): Gtk-WARNING **: 21:25:07.202: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581908141	Marionette	INFO	Listening on port 44729
+1540581908190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581908239	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581908244	Marionette	DEBUG	[2147483649] Frame script registered
+1540581908262	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581908276	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581908276	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581908277	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581908492	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581908493	Marionette	DEBUG	[4294967297] Frame script registered
+1540581908525	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581908542	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581908586	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581945239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ICuwaQaT20QX"
+
+(firefox:29742): Gtk-WARNING **: 21:25:45.805: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29742): Gtk-WARNING **: 21:25:45.805: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581946709	Marionette	INFO	Listening on port 35831
+1540581946746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581946792	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581946794	Marionette	DEBUG	[2147483649] Frame script registered
+1540581946810	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581946824	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581946825	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581946825	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581947047	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581947047	Marionette	DEBUG	[4294967297] Frame script registered
+1540581947079	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581947095	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581947133	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 29742, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581958587	Marionette	INFO	Stopped listening on port 35831
+[Parent 29485, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581959716	Marionette	INFO	Stopped listening on port 44729
+1540581962371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DrfBD4Af2PMq"
+
+(firefox:29986): Gtk-WARNING **: 21:26:02.929: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29986): Gtk-WARNING **: 21:26:02.929: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540581963809	Marionette	INFO	Listening on port 44409
+1540581963887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540581963946	Marionette	DEBUG	[2147483649] Frame script loaded
+1540581963947	Marionette	DEBUG	[2147483649] Frame script registered
+1540581963958	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540581963975	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540581963975	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540581963975	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540581964193	Marionette	DEBUG	[4294967297] Frame script loaded
+1540581964194	Marionette	DEBUG	[4294967297] Frame script registered
+1540581964226	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540581964243	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540581964285	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 29986, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540581969376	Marionette	INFO	Stopped listening on port 44409
+1540582018201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RJu1wrRPC0a5"
+
+(firefox:30260): Gtk-WARNING **: 21:26:58.786: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30260): Gtk-WARNING **: 21:26:58.786: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582019686	Marionette	INFO	Listening on port 38831
+1540582019717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582019770	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582019771	Marionette	DEBUG	[2147483649] Frame script registered
+1540582019788	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582019802	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582019802	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582019803	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582020032	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582020032	Marionette	DEBUG	[4294967297] Frame script registered
+1540582020067	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582020086	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582020122	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 30260, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582035874	Marionette	INFO	Stopped listening on port 38831
+1540582043369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QBcxkhexkrEX"
+
+(firefox:30523): Gtk-WARNING **: 21:27:24.044: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30523): Gtk-WARNING **: 21:27:24.044: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582044961	Marionette	INFO	Listening on port 33743
+1540582044976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582045019	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582045020	Marionette	DEBUG	[2147483649] Frame script registered
+1540582045046	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582045057	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582045058	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582045058	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582045283	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582045284	Marionette	DEBUG	[4294967297] Frame script registered
+1540582045317	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582045337	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582045367	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 30523, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582054051	Marionette	INFO	Stopped listening on port 33743
+1540582061139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q3D76bFEuw0y"
+
+(firefox:30764): Gtk-WARNING **: 21:27:41.763: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30764): Gtk-WARNING **: 21:27:41.763: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582062639	Marionette	INFO	Listening on port 45711
+1540582062647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582062690	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582062694	Marionette	DEBUG	[2147483649] Frame script registered
+1540582062708	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582062729	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582062729	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582062730	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582062963	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582062963	Marionette	DEBUG	[4294967297] Frame script registered
+1540582062996	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582063011	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582063047	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582076337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WPzNZZObRLDW"
+
+(firefox:30996): Gtk-WARNING **: 21:27:56.990: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30996): Gtk-WARNING **: 21:27:56.990: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582077955	Marionette	INFO	Listening on port 36539
+1540582078049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582078098	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582078100	Marionette	DEBUG	[2147483649] Frame script registered
+1540582078110	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582078124	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582078125	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582078126	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582078347	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582078348	Marionette	DEBUG	[4294967297] Frame script registered
+1540582078380	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582078397	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582078440	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582088073	Marionette	DEBUG	[2147483652] Frame script loaded
+1540582088112	Marionette	DEBUG	[2147483652] Frame script registered
+1540582088140	Marionette	DEBUG	[2147483654] Frame script loaded
+1540582088200	Marionette	DEBUG	[2147483654] Frame script registered
+1540582088810	Marionette	DEBUG	[2147483658] Frame script loaded
+1540582088810	Marionette	DEBUG	[2147483658] Frame script registered
+1540582089416	Marionette	DEBUG	[2147483661] Frame script loaded
+1540582089416	Marionette	DEBUG	[2147483661] Frame script registered
+1540582090067	Marionette	DEBUG	[2147483664] Frame script loaded
+1540582090069	Marionette	DEBUG	[2147483664] Frame script registered
+1540582090648	Marionette	DEBUG	[2147483667] Frame script loaded
+1540582090648	Marionette	DEBUG	[2147483667] Frame script registered
+1540582091010	Marionette	DEBUG	[2147483670] Frame script loaded
+1540582091013	Marionette	DEBUG	[2147483670] Frame script registered
+1540582091376	Marionette	DEBUG	[2147483673] Frame script loaded
+1540582091376	Marionette	DEBUG	[2147483673] Frame script registered
+[Parent 30996, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582093239	Marionette	INFO	Stopped listening on port 36539
+[Parent 30764, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582094406	Marionette	INFO	Stopped listening on port 45711
+1540582177221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.unDtjk2xkiz7"
+
+(firefox:31389): Gtk-WARNING **: 21:29:37.867: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31389): Gtk-WARNING **: 21:29:37.867: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582178845	Marionette	INFO	Listening on port 36079
+1540582178951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582179003	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582179004	Marionette	DEBUG	[2147483649] Frame script registered
+1540582179021	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582179037	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582179037	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582179038	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582179250	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582179251	Marionette	DEBUG	[4294967297] Frame script registered
+1540582179284	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582179302	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582179342	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 31389, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582186501	Marionette	INFO	Stopped listening on port 36079
+1540582204710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mjvg3os81JOb"
+
+(firefox:31668): Gtk-WARNING **: 21:30:05.343: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31668): Gtk-WARNING **: 21:30:05.343: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582206312	Marionette	INFO	Listening on port 45105
+1540582206319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582206363	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582206366	Marionette	DEBUG	[2147483649] Frame script registered
+1540582206378	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582206398	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582206399	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582206399	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582206627	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582206628	Marionette	DEBUG	[4294967297] Frame script registered
+1540582206662	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582206682	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582206710	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582230194	Marionette	DEBUG	[2147483652] Frame script loaded
+1540582230218	Marionette	DEBUG	[2147483652] Frame script registered
+1540582230232	Marionette	DEBUG	[2147483654] Frame script loaded
+1540582230235	Marionette	DEBUG	[2147483654] Frame script registered
+1540582231077	Marionette	DEBUG	[2147483658] Frame script loaded
+1540582231077	Marionette	DEBUG	[2147483658] Frame script registered
+1540582237044	Marionette	DEBUG	[6442450945] Frame script loaded
+1540582237045	Marionette	DEBUG	[6442450945] Frame script registered
+1540582406521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.stLiONrAkQd7"
+
+(firefox:32104): Gtk-WARNING **: 21:33:27.108: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32104): Gtk-WARNING **: 21:33:27.108: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582408037	Marionette	INFO	Listening on port 35489
+1540582408128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582408176	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582408176	Marionette	DEBUG	[2147483649] Frame script registered
+1540582408188	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582408200	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582408201	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582408201	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582408408	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582408409	Marionette	DEBUG	[4294967297] Frame script registered
+1540582408443	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582408463	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582408492	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 32104, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582434372	Marionette	INFO	Stopped listening on port 35489
+1540582435881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UquawzviPGWl"
+
+(firefox:32374): Gtk-WARNING **: 21:33:56.455: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32374): Gtk-WARNING **: 21:33:56.455: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582437353	Marionette	INFO	Listening on port 37603
+1540582437388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582437432	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582437433	Marionette	DEBUG	[2147483649] Frame script registered
+1540582437453	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582437475	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582437476	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582437476	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582437693	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582437694	Marionette	DEBUG	[4294967297] Frame script registered
+1540582437735	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582437753	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582437795	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582465842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Au7o33e79Z0C"
+
+(firefox:32618): Gtk-WARNING **: 21:34:26.482: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32618): Gtk-WARNING **: 21:34:26.482: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582467412	Marionette	INFO	Listening on port 35225
+1540582467450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582467502	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582467510	Marionette	DEBUG	[2147483649] Frame script registered
+1540582467531	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582467559	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582467559	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582467560	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582467787	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582467787	Marionette	DEBUG	[4294967297] Frame script registered
+1540582467820	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582467840	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582467873	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 32618, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582473962	Marionette	INFO	Stopped listening on port 35225
+[Parent 32374, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582474461	Marionette	INFO	Stopped listening on port 37603
+1540582476427	Marionette	DEBUG	[2147483661] Frame script loaded
+1540582476439	Marionette	DEBUG	[2147483661] Frame script registered
+1540582477989	Marionette	DEBUG	[2147483664] Frame script loaded
+1540582477989	Marionette	DEBUG	[2147483664] Frame script registered
+1540582478533	Marionette	DEBUG	[2147483667] Frame script loaded
+1540582478533	Marionette	DEBUG	[2147483667] Frame script registered
+[Parent 31668, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582480638	Marionette	INFO	Stopped listening on port 45105
+1540582571276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eT1sJY6vrDn8"
+
+(firefox:528): Gtk-WARNING **: 21:36:11.942: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:528): Gtk-WARNING **: 21:36:11.942: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582572839	Marionette	INFO	Listening on port 39641
+1540582572887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582572943	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582572949	Marionette	DEBUG	[2147483649] Frame script registered
+1540582572966	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582572978	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582572978	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582572979	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582573189	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582573190	Marionette	DEBUG	[4294967297] Frame script registered
+1540582573223	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582573239	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582573276	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 528, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582581405	Marionette	INFO	Stopped listening on port 39641
+1540582590396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Bok8Cd47Dztz"
+
+(firefox:792): Gtk-WARNING **: 21:36:31.028: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:792): Gtk-WARNING **: 21:36:31.029: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582591932	Marionette	INFO	Listening on port 33077
+1540582592012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582592066	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582592071	Marionette	DEBUG	[2147483649] Frame script registered
+1540582592090	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582592104	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582592104	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582592105	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582592324	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582592325	Marionette	DEBUG	[4294967297] Frame script registered
+1540582592359	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582592383	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582592411	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 792, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582600609	Marionette	INFO	Stopped listening on port 33077
+1540582612105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ett44RcS9Wc8"
+
+(firefox:1088): Gtk-WARNING **: 21:36:52.760: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1088): Gtk-WARNING **: 21:36:52.760: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582613673	Marionette	INFO	Listening on port 44579
+1540582613714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582613767	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582613770	Marionette	DEBUG	[2147483649] Frame script registered
+1540582613791	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582613812	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582613812	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582613813	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582614049	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582614050	Marionette	DEBUG	[4294967297] Frame script registered
+1540582614083	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582614099	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582614135	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 1088, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582623603	Marionette	INFO	Stopped listening on port 44579
+1540582658894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m92vztOrYeKA"
+
+(firefox:1477): Gtk-WARNING **: 21:37:39.474: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1477): Gtk-WARNING **: 21:37:39.474: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582660392	Marionette	INFO	Listening on port 44071
+1540582660413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582660474	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582660475	Marionette	DEBUG	[2147483649] Frame script registered
+1540582660495	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582660513	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582660513	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582660514	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582660748	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582660749	Marionette	DEBUG	[4294967297] Frame script registered
+1540582660782	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582660798	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582660836	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582674842	Marionette	DEBUG	[2147483652] Frame script loaded
+1540582674867	Marionette	DEBUG	[2147483652] Frame script registered
+1540582674887	Marionette	DEBUG	[2147483654] Frame script loaded
+1540582674916	Marionette	DEBUG	[2147483654] Frame script registered
+[Parent 1477, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582677586	Marionette	INFO	Stopped listening on port 44071
+1540582754003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sZ9hAugJeKcr"
+
+(firefox:2218): Gtk-WARNING **: 21:39:14.586: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2218): Gtk-WARNING **: 21:39:14.586: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582755489	Marionette	INFO	Listening on port 38487
+1540582755517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582755560	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582755561	Marionette	DEBUG	[2147483649] Frame script registered
+1540582755577	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582755591	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582755591	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582755592	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582755825	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582755826	Marionette	DEBUG	[4294967297] Frame script registered
+1540582755858	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582755880	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582755910	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 2218, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582775255	Marionette	INFO	Stopped listening on port 38487
+1540582779676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mzf25wfBwNFX"
+
+(firefox:2495): Gtk-WARNING **: 21:39:40.252: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2495): Gtk-WARNING **: 21:39:40.252: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582781170	Marionette	INFO	Listening on port 41371
+1540582781188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582781234	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582781237	Marionette	DEBUG	[2147483649] Frame script registered
+1540582781252	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582781275	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582781275	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582781276	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582781499	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582781500	Marionette	DEBUG	[4294967297] Frame script registered
+1540582781533	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582781550	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582781588	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582827112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.saeFqBiTdTTn"
+
+(firefox:2797): Gtk-WARNING **: 21:40:27.701: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2797): Gtk-WARNING **: 21:40:27.701: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582828651	Marionette	INFO	Listening on port 37905
+1540582828728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582828775	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582828779	Marionette	DEBUG	[2147483649] Frame script registered
+1540582828789	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582828804	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582828804	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582828805	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582829025	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582829026	Marionette	DEBUG	[4294967297] Frame script registered
+1540582829058	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582829075	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582829116	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582876070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AUAyHHVAGmQk"
+
+(firefox:3081): Gtk-WARNING **: 21:41:16.702: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3081): Gtk-WARNING **: 21:41:16.702: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582877649	Marionette	INFO	Listening on port 33307
+1540582877678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582877724	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582877726	Marionette	DEBUG	[2147483649] Frame script registered
+1540582877757	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582877772	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582877772	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582877773	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582877991	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582877991	Marionette	DEBUG	[4294967297] Frame script registered
+1540582878024	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582878043	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582878091	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 3081, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582894313	Marionette	INFO	Stopped listening on port 33307
+1540582918774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.936OyyDls8Xb"
+
+(firefox:3527): Gtk-WARNING **: 21:41:59.420: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3527): Gtk-WARNING **: 21:41:59.420: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582920370	Marionette	INFO	Listening on port 41247
+1540582920392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582920437	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582920438	Marionette	DEBUG	[2147483649] Frame script registered
+1540582920450	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582920461	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582920462	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582920462	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582920682	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582920683	Marionette	DEBUG	[4294967297] Frame script registered
+1540582920717	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582920733	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582920769	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 3527, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582934493	Marionette	INFO	Stopped listening on port 41247
+[Parent 2797, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582935052	Marionette	INFO	Stopped listening on port 37905
+[Parent 2495, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540582935811	Marionette	INFO	Stopped listening on port 41371
+1540582959108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CI1jDv9twX5y"
+
+(firefox:3960): Gtk-WARNING **: 21:42:39.679: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3960): Gtk-WARNING **: 21:42:39.679: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582960579	Marionette	INFO	Listening on port 33893
+1540582960617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582960666	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582960675	Marionette	DEBUG	[2147483649] Frame script registered
+1540582960696	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582960715	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582960716	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582960716	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582960949	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582960950	Marionette	DEBUG	[4294967297] Frame script registered
+1540582960983	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582960999	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582961038	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582988567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BWSewlSy5gOR"
+
+(firefox:4337): Gtk-WARNING **: 21:43:09.217: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4337): Gtk-WARNING **: 21:43:09.217: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540582990176	Marionette	INFO	Listening on port 33979
+1540582990280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540582990331	Marionette	DEBUG	[2147483649] Frame script loaded
+1540582990332	Marionette	DEBUG	[2147483649] Frame script registered
+1540582990345	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540582990357	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540582990357	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540582990358	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540582990581	Marionette	DEBUG	[4294967297] Frame script loaded
+1540582990583	Marionette	DEBUG	[4294967297] Frame script registered
+1540582990617	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540582990635	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540582990672	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540583005935	Marionette	DEBUG	[2147483652] Frame script loaded
+1540583005963	Marionette	DEBUG	[2147483652] Frame script registered
+1540583005981	Marionette	DEBUG	[2147483654] Frame script loaded
+1540583006009	Marionette	DEBUG	[2147483654] Frame script registered
+[Parent 4337, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540583008038	Marionette	INFO	Stopped listening on port 33979
+[Parent 3960, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540583010523	Marionette	INFO	Stopped listening on port 33893
+1540583116868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LSLg1QZjSNku"
+
+(firefox:4873): Gtk-WARNING **: 21:45:17.430: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4873): Gtk-WARNING **: 21:45:17.430: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540583118330	Marionette	INFO	Listening on port 45167
+1540583118378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540583118421	Marionette	DEBUG	[2147483649] Frame script loaded
+1540583118426	Marionette	DEBUG	[2147483649] Frame script registered
+1540583118446	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540583118458	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540583118458	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540583118459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540583118693	Marionette	DEBUG	[4294967297] Frame script loaded
+1540583118693	Marionette	DEBUG	[4294967297] Frame script registered
+1540583118728	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540583118746	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540583118783	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+[Parent 4873, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540583142993	Marionette	INFO	Stopped listening on port 45167
+1540583154917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6a9d1q8Z17Oq"
+
+(firefox:5152): Gtk-WARNING **: 21:45:55.574: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5152): Gtk-WARNING **: 21:45:55.574: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540583156485	Marionette	INFO	Listening on port 44723
+1540583156524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540583156566	Marionette	DEBUG	[2147483649] Frame script loaded
+1540583156568	Marionette	DEBUG	[2147483649] Frame script registered
+1540583156584	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540583156600	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540583156600	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540583156601	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540583156825	Marionette	DEBUG	[4294967297] Frame script loaded
+1540583156826	Marionette	DEBUG	[4294967297] Frame script registered
+1540583156857	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540583156880	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540583156908	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540583180151	Marionette	INFO	Stopped listening on port 44723
+[Parent 5152, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540583226764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.knSwA3uckCef"
+
+(firefox:5451): Gtk-WARNING **: 21:47:07.348: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5451): Gtk-WARNING **: 21:47:07.348: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540583228257	Marionette	INFO	Listening on port 39353
+1540583228277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540583228336	Marionette	DEBUG	[2147483649] Frame script loaded
+1540583228343	Marionette	DEBUG	[2147483649] Frame script registered
+1540583228372	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540583228385	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540583228386	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1540583228386	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540583228611	Marionette	DEBUG	[4294967297] Frame script loaded
+1540583228612	Marionette	DEBUG	[4294967297] Frame script registered
+1540583228644	Marionette	DEBUG	[4294967297] Check readyState uninitialized for about:blank
+1540583228670	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540583228700	Marionette	DEBUG	[4294967297] Received DOM event pageshow for file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html
+1540583257174	Marionette	INFO	Stopped listening on port 39353
+[Parent 5451, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540659661828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BgoFHmX5hKJa"
+
+(firefox:18876): Gtk-WARNING **: 19:01:02.440: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18876): Gtk-WARNING **: 19:01:02.440: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540659663379	Marionette	INFO	Listening on port 33537
+1540659663435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 18876, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540659695326	Marionette	INFO	Stopped listening on port 33537
+1540659867968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pee5AYxVL5qx"
+
+(firefox:19552): Gtk-WARNING **: 19:04:28.560: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19552): Gtk-WARNING **: 19:04:28.560: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540659869434	Marionette	INFO	Listening on port 46581
+1540659869480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540660907471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LVLugC04ILQz"
+
+(firefox:21414): Gtk-WARNING **: 19:21:48.011: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21414): Gtk-WARNING **: 19:21:48.011: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540660909009	Marionette	INFO	Listening on port 46059
+1540660909082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 21414, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540660994213	Marionette	INFO	Stopped listening on port 46059
+1540660995754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D9VmIyEOyGUs"
+
+(firefox:21737): Gtk-WARNING **: 19:23:16.312: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21737): Gtk-WARNING **: 19:23:16.312: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540660997288	Marionette	INFO	Listening on port 33113
+1540660997370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540661012016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tutJNX2boAML"
+
+(firefox:22020): Gtk-WARNING **: 19:23:32.544: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22020): Gtk-WARNING **: 19:23:32.544: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661013466	Marionette	INFO	Listening on port 36845
+1540661013522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540661059742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vgxVO3gqs64O"
+
+(firefox:22313): Gtk-WARNING **: 19:24:20.298: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22313): Gtk-WARNING **: 19:24:20.298: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661061219	Marionette	INFO	Listening on port 33841
+1540661061251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540661205873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BAkrVQyIn8L8"
+
+(firefox:22671): Gtk-WARNING **: 19:26:46.505: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22671): Gtk-WARNING **: 19:26:46.505: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661207514	Marionette	INFO	Listening on port 39971
+1540661207580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 22313, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661236221	Marionette	INFO	Stopped listening on port 33841
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 22020, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661237041	Marionette	INFO	Stopped listening on port 36845
+1540661321923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O8Bkw2A8xl3z"
+
+(firefox:23170): Gtk-WARNING **: 19:28:42.459: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23170): Gtk-WARNING **: 19:28:42.459: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661323327	Marionette	INFO	Listening on port 43243
+1540661323446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 23170, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661354474	Marionette	INFO	Stopped listening on port 43243
+1540661356239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ac981n5f3S8H"
+
+(firefox:23460): Gtk-WARNING **: 19:29:16.774: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23460): Gtk-WARNING **: 19:29:16.774: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661357700	Marionette	INFO	Listening on port 39125
+1540661357747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 23460, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23460, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661369495	Marionette	INFO	Stopped listening on port 39125
+1540661568102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uafwgOWAJ9KU"
+
+(firefox:23865): Gtk-WARNING **: 19:32:48.654: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23865): Gtk-WARNING **: 19:32:48.654: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661569592	Marionette	INFO	Listening on port 35617
+1540661569613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 23865, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661583054	Marionette	INFO	Stopped listening on port 35617
+1540661593709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pUWuHLyjmj61"
+
+(firefox:24214): Gtk-WARNING **: 19:33:14.241: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24214): Gtk-WARNING **: 19:33:14.241: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661595148	Marionette	INFO	Listening on port 41281
+1540661595227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540661674609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JPGGShKRwAu6"
+
+(firefox:24544): Gtk-WARNING **: 19:34:35.168: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24544): Gtk-WARNING **: 19:34:35.168: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661676072	Marionette	INFO	Listening on port 36805
+1540661676133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 24544, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24544, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661687367	Marionette	INFO	Stopped listening on port 36805
+1540661755729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3Hsm29ybbSqQ"
+
+(firefox:24943): Gtk-WARNING **: 19:35:56.286: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24943): Gtk-WARNING **: 19:35:56.286: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661757166	Marionette	INFO	Listening on port 42557
+1540661757238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 24943, Gecko_IOThread] WARNING: pipe error (110): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24943, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661775593	Marionette	INFO	Stopped listening on port 42557
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 24214, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661777831	Marionette	INFO	Stopped listening on port 41281
+1540661794762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vZyoUJ6Atr2E"
+
+(firefox:25296): Gtk-WARNING **: 19:36:35.301: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25296): Gtk-WARNING **: 19:36:35.302: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661796220	Marionette	INFO	Listening on port 41591
+1540661796271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 25296, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25296, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661810405	Marionette	INFO	Stopped listening on port 41591
+1540661827094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XDPxvSlkmAvy"
+
+(firefox:25639): Gtk-WARNING **: 19:37:07.643: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25639): Gtk-WARNING **: 19:37:07.643: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661828626	Marionette	INFO	Listening on port 35159
+1540661828701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 25639, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25639, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661839523	Marionette	INFO	Stopped listening on port 35159
+1540661852977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GB3kAt1LU4dx"
+
+(firefox:25978): Gtk-WARNING **: 19:37:33.504: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25978): Gtk-WARNING **: 19:37:33.504: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661854408	Marionette	INFO	Listening on port 44977
+1540661854490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 25978, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25978, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661906155	Marionette	INFO	Stopped listening on port 44977
+1540661907187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2oNZ1mepyojo"
+
+(firefox:26382): Gtk-WARNING **: 19:38:27.722: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26382): Gtk-WARNING **: 19:38:27.722: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661908632	Marionette	INFO	Listening on port 46699
+1540661908694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 26382, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 26382, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661916882	Marionette	INFO	Stopped listening on port 46699
+1540661923138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.15uHHI1QI9uK"
+
+(firefox:26675): Gtk-WARNING **: 19:38:43.714: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26675): Gtk-WARNING **: 19:38:43.714: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661924663	Marionette	INFO	Listening on port 38871
+1540661924769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540661950717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Uo0jLHvQHLvU"
+
+(firefox:26981): Gtk-WARNING **: 19:39:11.291: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26981): Gtk-WARNING **: 19:39:11.291: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540661952265	Marionette	INFO	Listening on port 36347
+1540661952333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 26981, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 26981, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540661994846	Marionette	INFO	Stopped listening on port 36347
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 26675, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 26675, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662008492	Marionette	INFO	Stopped listening on port 38871
+1540662010705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2nyyyytI2qiB"
+
+(firefox:27340): Gtk-WARNING **: 19:40:11.247: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27340): Gtk-WARNING **: 19:40:11.247: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662012190	Marionette	INFO	Listening on port 45343
+1540662012223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 27340, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 27340, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662024124	Marionette	INFO	Stopped listening on port 45343
+1540662049323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fZm0bGJUduov"
+
+(firefox:27676): Gtk-WARNING **: 19:40:49.891: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27676): Gtk-WARNING **: 19:40:49.891: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662050825	Marionette	INFO	Listening on port 34199
+1540662050835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 27676, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662064836	Marionette	INFO	Stopped listening on port 34199
+1540662082440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bXyq0VQZBFvV"
+
+(firefox:27989): Gtk-WARNING **: 19:41:23.036: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27989): Gtk-WARNING **: 19:41:23.036: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662083978	Marionette	INFO	Listening on port 45815
+1540662084047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 27989, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 27989, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662097257	Marionette	INFO	Stopped listening on port 45815
+1540662131415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bdthW21LIkMR"
+
+(firefox:28399): Gtk-WARNING **: 19:42:11.988: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28399): Gtk-WARNING **: 19:42:11.988: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662132908	Marionette	INFO	Listening on port 33533
+1540662132924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 28399, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 28399, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662143444	Marionette	INFO	Stopped listening on port 33533
+1540662202120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Znyd92c8PZTl"
+
+(firefox:28868): Gtk-WARNING **: 19:43:22.639: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28868): Gtk-WARNING **: 19:43:22.639: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662203691	Marionette	INFO	Listening on port 36155
+1540662203728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 28868, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 28868, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662223203	Marionette	INFO	Stopped listening on port 36155
+1540662224735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9CQxFZ3KHnvp"
+
+(firefox:29287): Gtk-WARNING **: 19:43:45.281: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29287): Gtk-WARNING **: 19:43:45.281: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662226212	Marionette	INFO	Listening on port 40555
+1540662226244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540662493558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tEtEjVs5m0zP"
+
+(firefox:29685): Gtk-WARNING **: 19:48:14.116: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29685): Gtk-WARNING **: 19:48:14.116: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662495047	Marionette	INFO	Listening on port 45733
+1540662495072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 29685, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 29685, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662526435	Marionette	INFO	Stopped listening on port 45733
+1540662528915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rratVwUXftNV"
+
+(firefox:29987): Gtk-WARNING **: 19:48:49.486: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29987): Gtk-WARNING **: 19:48:49.486: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662530407	Marionette	INFO	Listening on port 43985
+1540662530424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 29287, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 29287, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662557001	Marionette	INFO	Stopped listening on port 40555
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 29987, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 29987, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662559102	Marionette	INFO	Stopped listening on port 43985
+1540662580828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yGcQGpFBaR0O"
+
+(firefox:30324): Gtk-WARNING **: 19:49:41.366: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30324): Gtk-WARNING **: 19:49:41.366: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662582345	Marionette	INFO	Listening on port 42349
+1540662582444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540662942123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VoOxiCKJnWfK"
+
+(firefox:31050): Gtk-WARNING **: 19:55:42.660: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31050): Gtk-WARNING **: 19:55:42.660: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662943606	Marionette	INFO	Listening on port 34259
+1540662943634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 31050, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31050, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540662959103	Marionette	INFO	Stopped listening on port 34259
+1540662991049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pj85ZzKRQEK5"
+
+(firefox:31361): Gtk-WARNING **: 19:56:31.608: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31361): Gtk-WARNING **: 19:56:31.608: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540662992651	Marionette	INFO	Listening on port 39139
+1540662992658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 31361, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31361, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540663547141	Marionette	INFO	Stopped listening on port 39139
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 30324, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 30324, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540663548107	Marionette	INFO	Stopped listening on port 42349
+1540663549903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Eoj7HvtWTyyM"
+
+(firefox:32258): Gtk-WARNING **: 20:05:50.428: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32258): Gtk-WARNING **: 20:05:50.428: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540663551322	Marionette	INFO	Listening on port 46307
+1540663551409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540663576724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6bmdCKhqsVPf"
+
+(firefox:32538): Gtk-WARNING **: 20:06:17.318: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32538): Gtk-WARNING **: 20:06:17.319: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540663578313	Marionette	INFO	Listening on port 43873
+1540663578332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 32538, Gecko_IOThread] WARNING: pipe error (125): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 32538, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540663589625	Marionette	INFO	Stopped listening on port 43873
+[Parent 32258, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540663592225	Marionette	INFO	Stopped listening on port 46307
+1540663609382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LF37dpYd1l4R"
+
+(firefox:421): Gtk-WARNING **: 20:06:49.914: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:421): Gtk-WARNING **: 20:06:49.914: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540663610810	Marionette	INFO	Listening on port 38151
+1540663610889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 421, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 421, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540663675684	Marionette	INFO	Stopped listening on port 38151
+1540663695385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oWWXnGmllWTg"
+
+(firefox:1240): Gtk-WARNING **: 20:08:15.993: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1240): Gtk-WARNING **: 20:08:15.993: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540663696943	Marionette	INFO	Listening on port 37603
+1540663696997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540669421479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pt7fc6dQpgzl"
+
+(firefox:21270): Gtk-WARNING **: 21:43:42.007: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21270): Gtk-WARNING **: 21:43:42.007: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540669422903	Marionette	INFO	Listening on port 33941
+1540669422994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 21270, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 21270, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540669580098	Marionette	INFO	Stopped listening on port 33941
+1540670055551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GvDWdR3gO2rA"
+
+(firefox:22443): Gtk-WARNING **: 21:54:16.074: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22443): Gtk-WARNING **: 21:54:16.074: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540670056978	Marionette	INFO	Listening on port 43909
+1540670057064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 22443, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 22443, Gecko_IOThread] WARNING: pipe error (108): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540670078927	Marionette	INFO	Stopped listening on port 43909
+1540670086851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VJ52meunbmJO"
+
+(firefox:22847): Gtk-WARNING **: 21:54:47.396: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22847): Gtk-WARNING **: 21:54:47.396: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540670088310	Marionette	INFO	Listening on port 46281
+1540670088362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 22847, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 22847, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540670106566	Marionette	INFO	Stopped listening on port 46281
+1540670119436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sLYDq9VkHiPp"
+
+(firefox:23221): Gtk-WARNING **: 21:55:20.023: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23221): Gtk-WARNING **: 21:55:20.023: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540670120992	Marionette	INFO	Listening on port 46425
+1540670121046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 23221, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23221, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540670266980	Marionette	INFO	Stopped listening on port 46425
+1540670291595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RhsCVIh2KIxx"
+
+(firefox:24198): Gtk-WARNING **: 21:58:12.120: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24198): Gtk-WARNING **: 21:58:12.120: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540670293011	Marionette	INFO	Listening on port 37707
+1540670293102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 24198, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24198, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540670333313	Marionette	INFO	Stopped listening on port 37707
+1540670335200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pIhc2lrgpu6f"
+
+(firefox:24648): Gtk-WARNING **: 21:58:55.739: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24648): Gtk-WARNING **: 21:58:55.739: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540670336677	Marionette	INFO	Listening on port 45577
+1540670336706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 24648, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24648, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540670360470	Marionette	INFO	Stopped listening on port 45577
+1540670363720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cbNGE41c6V24"
+
+(firefox:25037): Gtk-WARNING **: 21:59:24.247: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25037): Gtk-WARNING **: 21:59:24.247: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540670365211	Marionette	INFO	Listening on port 34407
+1540670365226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 25037, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25037, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540670406053	Marionette	INFO	Stopped listening on port 34407
