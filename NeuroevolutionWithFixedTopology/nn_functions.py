@@ -62,6 +62,9 @@ def ReLu(vec):
     return vec*(vec > 0)
 
 def Softmax(vec):
+    """
+    Stable softmax
+    """
     exped = np.exp(vec-np.max(vec))
     softmaxed = exped / np.sum(exped)
     return softmaxed

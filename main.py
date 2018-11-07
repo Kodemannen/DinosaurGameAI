@@ -6,7 +6,7 @@ import numpy as np
 import functions
 
 from selenium import webdriver
-game_url = "file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html"
+game_url = "file:///home/kodemannen/t-rex-runner/index.html"
 driver = webdriver.Firefox()
 driver.get(game_url)
 
