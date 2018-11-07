@@ -55,7 +55,7 @@ def Evaluate_pop(population, games_per_individual):
 
 
 
-game_url = "file:///home/kodemannen/DinosaurGameAI/t-rex-runner/index.html"
+game_url = "file:///home/kodemannen/t-rex-runner/index.html"
 driver = webdriver.Firefox()
 driver.get(game_url)
 driver.set_window_position(0,0)
