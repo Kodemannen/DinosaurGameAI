@@ -1,5 +1,5 @@
-# TrainingDinosaurGameAI
+# Training AI on Google's Dinosaur Game
 Game can be found at
-http://wayou.github.io/t-rex-runner/
+https://github.com/Kodemannen/t-rex-runner
 
 Paper for NEAT algorithm: http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
