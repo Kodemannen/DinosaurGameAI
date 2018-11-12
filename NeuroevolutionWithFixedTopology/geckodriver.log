@@ -1663,3 +1663,22 @@ JavaScript error: , line 0: InvalidStateError: An attempt was made to use an obj
 [Parent 8809, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
 [Parent 8809, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
 1541604259623	Marionette	INFO	Stopped listening on port 37819
+1541611869214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nI2S8s8SLfVf"
+
+(firefox:10081): Gtk-WARNING **: 18:31:09.753: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10081): Gtk-WARNING **: 18:31:09.754: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1541611870597	Marionette	INFO	Listening on port 35257
+1541611870631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541611909135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LmvtYI4mka2U"
+
+(firefox:10494): Gtk-WARNING **: 18:31:49.668: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10494): Gtk-WARNING **: 18:31:49.668: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1541611910608	Marionette	INFO	Listening on port 38735
+1541611910641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 10494, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 10494, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541611976036	Marionette	INFO	Stopped listening on port 38735
+1541612025583	Marionette	INFO	Stopped listening on port 35257
