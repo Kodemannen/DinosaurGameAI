@@ -1,4 +1,4 @@
-# Training AI on Google's Dinosaur Game
+# Training AI on Google Chrome's Dinosaur Game
 Game can be found at
 https://github.com/Kodemannen/t-rex-runner
 
